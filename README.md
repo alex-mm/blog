@@ -8,6 +8,8 @@
 
 * [Sublime ESLintAutoFix](https://github.com/alex-mm/blog/blob/master/Sublime%20ESLintAutoFix.md)
 
+* [stylus 实现 hsv / hsb 转换](https://github.com/alex-mm/blog/blob/master/stylus%20%E5%AE%9E%E7%8E%B0%20hsv:hsb%20%E8%BD%AC%E6%8D%A2.md)
+
 * [从 Array.isArray 能学到什么](https://github.com/alex-mm/blog/blob/master/%E4%BB%8E%20Array.isArray%20%E8%83%BD%E5%AD%A6%E5%88%B0%E4%BB%80%E4%B9%88.md)
 
 * [从团队管理反射提升自己](https://github.com/alex-mm/blog/blob/master/%E4%BB%8E%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86%E5%8F%8D%E5%B0%84%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1.md)
